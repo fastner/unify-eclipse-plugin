@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="unify.eclipse.feature"
+      label="UnifyEclipseFeature"
+      version="1.0.1.qualifier"
+      provider-name="Sebastian Fastner">
+
+   <description>
+      Unify Eclipse Plugin
+   </description>
+
+   <copyright>
+      Copyright (C) 2010 Sebastian Fastner, Mainz, Germany
+   </copyright>
+
+   <license>
+      MIT + Apache (V2)
+   </license>
+
+   <plugin
+         id="unify.eclipse.plugin"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
